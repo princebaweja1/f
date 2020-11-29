@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 sb hataa dia
+=======
+jj
+kr du kya
+>>>>>>> 48439befe6470a89ba0e53600e10bdc6ccbd33bf
